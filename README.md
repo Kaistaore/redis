@@ -45,7 +45,7 @@
 
 ### Задание 2. Memcached
 
-![systemctl status memcached](screenshots/memcached-status.png)
+![systemctl status memcached](screenshots/Memcached-status.png)
 
 ---
 
